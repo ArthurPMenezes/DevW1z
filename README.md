@@ -39,7 +39,7 @@ Nossos projetos não se limitam apenas a isto, mas como um catálogo informativo
 <hr>
 
 #### Bem-vindo ao nosso catálogo de designs adaptáveis para projetos de desenvolvimento web! Aqui você encontrará uma variedade de modelos e designs prontos para serem adaptados de acordo com as necessidades específicas do seu projeto. Nossa coleção inclui uma ampla gama de estilos, layouts e elementos de design que podem ser personalizados para atender às suas preferências e requisitos exclusivos. De sites corporativos a lojas online e blogs pessoais, temos o design perfeito para o seu próximo projeto web. Explore nossa seleção abaixo e descubra como podemos transformar sua visão em realidade digital. 
-#### Para discussão de projetos, montagem de orçamento e maiores informações basta entrar em contato através dos canais de atendimento ou se preferir via whatsApp, basta entrar em contato com seguinte número: +55 (81) 9 7347-3911. (ao entrar em contato via whatsApp, por favor informar imediatamento que o motivo do contato é sobre o anúncio do github) Sinta-se a vontade para esclarecer qualquer dúvida.
+#### Para discussão de projetos, montagem de orçamento e maiores informações basta entrar em contato através dos canais de atendimento, ou se preferir via whatsApp. Basta entrar em contato com seguinte número: +55 (81) 9 7347-3911. (ao entrar em contato via whatsApp, por favor informar imediatamento que o motivo do contato é sobre o anúncio do github) Sinta-se a vontade para esclarecer qualquer dúvida.
 
 * 🌍 Moro no Brasil, PE
 * ✉️ Você pode entrar em contato comigo através dos emails
