@@ -32,22 +32,22 @@
 
 ### Antes de mais nada, conheça a _DevW1z_
 
-
+![f2b1d06a-51f9-43fd-b504-1bb21fae1beb](https://github.com/ArthurPMenezes/portfolio/assets/149070143/6f54322c-d605-4c7d-a20c-379e43dc3c86)
 
 A DevW1z é uma iniciativa focada em fornecer serviços de desenvolvimento digital profissional para clientes em busca de soluções digitais de alta qualidade. Especializada em criação de websites, desenvolvimento de aplicativos móveis e design de interfaces, estamos comprometidos em oferecer resultados excepcionais que atendam às necessidades específicas de nossos clientes. Nosso objetivo é fornecer serviços confiáveis e eficientes, ajudando nossos clientes a alcançar seus objetivos digitais com sucesso.
+Nossos projetos não se limitam apenas a isto, mas como um catálogo informativo disponibilizaremos conteúdos mais relevantes.
 <hr>
 
-#### Bem-vindo ao nosso catálogo de designs adaptáveis para projetos de desenvolvimento web! Aqui você encontrará uma variedade de modelos e designs prontos para serem adaptados de acordo com as necessidades específicas do seu projeto. Nossa coleção inclui uma ampla gama de estilos, layouts e elementos de design que podem ser personalizados para atender às suas preferências e requisitos exclusivos. De sites corporativos a lojas online e blogs pessoais, temos o design perfeito para o seu próximo projeto web. Explore nossa seleção abaixo e descubra como podemos transformar sua visão em realidade digital.
+#### Bem-vindo ao nosso catálogo de designs adaptáveis para projetos de desenvolvimento web! Aqui você encontrará uma variedade de modelos e designs prontos para serem adaptados de acordo com as necessidades específicas do seu projeto. Nossa coleção inclui uma ampla gama de estilos, layouts e elementos de design que podem ser personalizados para atender às suas preferências e requisitos exclusivos. De sites corporativos a lojas online e blogs pessoais, temos o design perfeito para o seu próximo projeto web. Explore nossa seleção abaixo e descubra como podemos transformar sua visão em realidade digital. 
+#### Para discussão de projetos, montagem de orçamento e maiores informações basta entrar em contato através dos canais de atendimento ou se preferir via whatsApp, basta entrar em contato com seguinte número: +55 (81) 9 7347-3911. (ao entrar em contato via whatsApp, por favor informar imediatamento que o motivo do contato é sobre o anúncio do github) Sinta-se a vontade para esclarecer qualquer dúvida.
 
-My true passion lies in web and mobile development, where I constantly strive to improve my skills and explore the latest technological trends. I am always looking for exciting challenges and opportunities to learn and grow.
- * 🌍 I live in Brazil, PE
- * ✉️ You can contact me through the emails<br>
- 4rthurmenezes@protonmail.com<br>
- 4r7hurm3n3z3s@gmail.com
- * 🚀 I am currently working at SchoolCloud
- * 🧠 I am learning JavaScript and Databases
- * 🤝 I am learning to collaborate on Mobile Projects (Android)
- * ⚡ Secretly, I am Batman... but that's a secret 🤫
+* 🌍 Moro no Brasil, PE
+* ✉️ Você pode entrar em contato comigo através dos emails
+* 4rthurmenezes@protonmail.com
+* 4r7hurm3n3z3s@gmail.com
+* 🚀 Atualmente estou trabalhando na SchoolCloud
+* 🧠 Estou aprendendo JavaScript e bancos de dados
+* 🤝 Estou aprendendo a colaborar em projetos Mobile (Android)
 <hr>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPMenezes&show_icons=true&theme=midnight-purple)
@@ -67,6 +67,42 @@ My true passion lies in web and mobile development, where I constantly strive to
 
 <hr>
 
+## <span lang="en" translate="no">SchoolCloud-App</span>
+
+<div align="center">
+    <img src="https://github.com/ArthurPMenezes/portfolio/assets/149070143/601537c7-1ffb-449d-8f0a-50042c87023d">
+    <img src="https://github.com/ArthurPMenezes/School-Cloud/assets/149070143/d1ea4e3c-d4db-4882-a4d2-67b4bd15cc84" style="width: 500px; float: left;">
+    <p style="margin-left: 20px;">SchoolCloud foi criado com uma visão ousada: libertar os alunos do peso dos livros didáticos pesados. Imagine ter acesso a todos os seus materiais de estudo, sempre à mão, sem a necessidade de carregar pilhas de livros. Com o SchoolCloud sua jornada educacional será mais leve e eficiente.</p>
+</div>
+<hr>
+
+## <span style="color: black; text-decoration: underline;">[SchoolCloud-Website](https://schoolcloudev.my.canva.site/)</span>
+
+![Screenshot_20240203_174053](https://github.com/ArthurPMenezes/portfolio/assets/149070143/2f40c582-a3ca-40e6-969b-668e15398541)
+
+Uma simples landingpage para fins informativos sobre o app
+
+<hr>
+
+## <span style="color: black; text-decoration: underline;">[LandingPage (O Dicionário do Programador)]([https://schoolcloudev.my.canva.site/](https://schoolcloudev.my.canva.site/o-dicionario-do-programador))</span>
+
+
+![Screenshot_20240203_175034](https://github.com/ArthurPMenezes/portfolio/assets/149070143/1dfcb989-d35f-4076-a9ee-00b2c0bca2ed)
+![Screenshot_20240203_175147](https://github.com/ArthurPMenezes/portfolio/assets/149070143/83165927-b457-4d83-99c8-9b9cf4414832)
+
+LandingPage informativa para descrição e conversão do livro _O Dicionario do Programador_
+
+<hr>
+
+## Portifólio interativo _DevW1z_
+
+![MacBook Pro 14_ - 1](https://github.com/ArthurPMenezes/portfolio/assets/149070143/6f111d85-3426-4243-a772-d385d73020f2)
+
+Portifólio interativo de conversão e informação da _DevW1z_
+
+<hr>
+
+## Bônus
 ## Discover my book: "O Dicionário do Programador" 
 
 <div align = "center">
